@@ -1,0 +1,7 @@
+approvals:
+  minimum: 1
+  ignore: both
+  pattern: "^(:\\+1:|:ship:|:shipit:)$"
+  from:
+    users:
+      - akavalevich
