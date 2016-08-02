@@ -4,4 +4,4 @@ approvals:
   pattern: "^(:\\+1:|:ship:|:shipit:)$"
   from:
     users:
-      - akavalevich
+      - aakavalevich
